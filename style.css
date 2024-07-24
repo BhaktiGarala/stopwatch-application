@@ -60,9 +60,6 @@ h1 {
 .button-wrap button.pause {
     background-color: #ff6347;
 }
-.button-wrap button.stop {
-    background-color: #616161;
-}
 .button-wrap button.reset {
     background-color: #414141;
 }
